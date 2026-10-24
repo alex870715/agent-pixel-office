@@ -35,3 +35,9 @@ nav#modes{margin-left:auto}nav#filters{margin-left:0}
 .info .bub{position:static;transform:none;max-width:none;white-space:normal;border:1px solid var(--line);border-radius:8px;padding:6px 8px;background:transparent;color:var(--tx);animation:none}
 .info .dot{position:static;width:9px;height:9px;border-radius:9px;display:inline-block;background:var(--idle)}
 .working .info .dot{background:var(--ok)}.alert .info .dot{background:var(--bad)}.sm{font-size:12px}
+
+/* v3: god view */
+#office.god{display:block;background:#1d1b26;border-radius:14px;padding:10px}
+svg.god{width:100%;display:block;image-rendering:pixelated;font-family:system-ui,"Noto Sans TC",sans-serif}
+.gl{font-size:5px;fill:#2b2135;text-anchor:middle;font-weight:700}.gt{font-size:5.2px;fill:#1b1b1b;text-anchor:middle}
+.gx{font-size:6px;fill:#fff;text-anchor:middle;font-weight:800}.gz{font-size:5px;fill:#5a6b8c;font-weight:700}

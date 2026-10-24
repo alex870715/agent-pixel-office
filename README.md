@@ -28,3 +28,9 @@ A zero-dependency static web page that visualizes a team of AI agents as an offi
 
 ## License
 MIT
+
+## 上帝視角 God view (`?m=god`)
+Top-down office map: every agent's decorated desk, sofa lounge, meeting table, coffee machine and bug corner.
+Idle agents wander to the sofa and coffee machine; working agents stay at their desk. Hand-offs along the pipeline
+(SEARCH → RISK → WHALE/SHILL → Lead → SNIPER) play only when both agents are not `idle`; `alert` on RUG/MACRO sends a red alert to EXIT.
+Logic lives in `godcore.js`. Preview: `docs/preview_oss_god.png`.

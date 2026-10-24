@@ -10,8 +10,8 @@
  "SEARCH": {
   "role": "Alpha Scout / 找標的",
   "station": "Intel Desk",
-  "status": "idle",
-  "bubble": "Demo: nothing qualifies yet",
+  "status": "working",
+  "bubble": "Demo: found a candidate lead",
   "updated": "2026-01-01 09:00",
   "deco": "magnifier, many tabs, sticky notes"
  },
@@ -42,8 +42,8 @@
  "SNIPER": {
   "role": "Execution / 執行",
   "station": "Sniper Desk",
-  "status": "idle",
-  "bubble": "Demo: standing by",
+  "status": "working",
+  "bubble": "Demo: order prepared with TP/SL",
   "updated": "2026-01-01 09:00",
   "deco": "scope, crosshair screen"
  },
@@ -58,24 +58,24 @@
  "RUG": {
   "role": "On-chain Sentry / 哨兵",
   "station": "Alarm Tower",
-  "status": "working",
-  "bubble": "Demo: no alerts",
+  "status": "alert",
+  "bubble": "Demo: on-chain alert raised",
   "updated": "2026-01-01 09:00",
   "deco": "shiba guard dog, siren light"
  },
  "QUANT": {
   "role": "Backtester / 回測",
   "station": "Backtest Lab",
-  "status": "working",
-  "bubble": "Demo: running a backtest",
+  "status": "idle",
+  "bubble": "Demo: coffee break",
   "updated": "2026-01-01 09:00",
   "deco": "formula chalkboard, backtest bars"
  },
  "MACRO": {
   "role": "Macro Radar / 宏觀",
   "station": "Liquidation Map",
-  "status": "alert",
-  "bubble": "Demo: volatility warning",
+  "status": "idle",
+  "bubble": "Demo: macro calm",
   "updated": "2026-01-01 09:00",
   "deco": "globe, liquidation heat map, alert light"
  }
