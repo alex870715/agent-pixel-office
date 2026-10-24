@@ -1,0 +1,14 @@
+{
+  "_note": "DEMO DATA ONLY - replace with your own numbers",
+  "title": "Wall Board (demo)",
+  "metrics": [
+    {"label":"Equity (demo)","value":"$1,000.00"},
+    {"label":"PnL vs baseline (demo)","value":"+$0.00","tone":"success"},
+    {"label":"Circuit breaker room (demo)","value":"$50.00"},
+    {"label":"Heartbeat","value":"OK (demo)","tone":"success"}
+  ],
+  "positions": [
+    {"id":"#DEMO-1","side":"DEMO long","entry":"100.00","mark":"101.00","sl":"98.00","tp":"105.00","roe":"+1.0%"}
+  ],
+  "updated": "2026-01-01 09:00"
+}

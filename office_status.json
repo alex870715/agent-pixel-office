@@ -1,0 +1,12 @@
+{
+  "Lead":    {"role":"Desk Lead / 台長","station":"Manager Desk","status":"working","bubble":"Demo: reviewing today's plan","avatar":"","updated":"2026-01-01 09:00"},
+  "SEARCH":  {"role":"Alpha Scout / 找標的","station":"Intel Desk","status":"idle","bubble":"Demo: nothing qualifies yet","avatar":"","updated":"2026-01-01 09:00"},
+  "RISK":    {"role":"Risk Review / 風控","station":"Risk Wall","status":"working","bubble":"Demo: auditing a contract","avatar":"","updated":"2026-01-01 09:00"},
+  "WHALE":   {"role":"Smart Money / 盯大戶","station":"Whale Radar","status":"working","bubble":"Demo: tracking large wallets","avatar":"","updated":"2026-01-01 09:00"},
+  "SHILL":   {"role":"Sentiment / 情緒","station":"Social Wall","status":"idle","bubble":"Demo: sentiment quiet","avatar":"","updated":"2026-01-01 09:00"},
+  "SNIPER":  {"role":"Execution / 執行","station":"Sniper Desk","status":"idle","bubble":"Demo: standing by","avatar":"","updated":"2026-01-01 09:00"},
+  "EXIT":    {"role":"Exit Manager / 離場","station":"Position Board","status":"working","bubble":"Demo: watching stops","avatar":"","updated":"2026-01-01 09:00"},
+  "RUG":     {"role":"On-chain Sentry / 哨兵","station":"Alarm Tower","status":"working","bubble":"Demo: no alerts","avatar":"","updated":"2026-01-01 09:00"},
+  "QUANT":   {"role":"Backtester / 回測","station":"Backtest Lab","status":"working","bubble":"Demo: running a backtest","avatar":"","updated":"2026-01-01 09:00"},
+  "MACRO":   {"role":"Macro Radar / 宏觀","station":"Liquidation Map","status":"alert","bubble":"Demo: volatility warning","avatar":"","updated":"2026-01-01 09:00"}
+}
